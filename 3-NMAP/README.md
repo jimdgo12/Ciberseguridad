@@ -6,40 +6,40 @@ Para la instalación de esta herramienta es necesario ingresar a la [página pri
 
 [1_1]:https://nmap.org/download.html
 
-![img_01](img/Img_01.png)
+![Img_01](img/Img_01.png)
 
 Una vez en la página principal, se le da click en el ícono de la imágen que esta remarcado para iniciar la descarga de **NMAP**.
 
-![img_02](img/Img_02.png)
+![Img_02](img/Img_02.png)
 
 Después de terminar la descarga, se ejecuta el programa como administrador, como se muestra en la imágen.
 
-![img_03](img/Img_03.png)
+![Img_03](img/Img_03.png)
 
 Para continuar con el proceso de isntalación se le deberá dar clic en el botón I Agree.
 
-![img_04](img/Img_04.png)
+![Img_04](img/Img_04.png)
 
 En el proceso de la instalación se agrega la ruta de instalación o se deja por defecto como en este caso y se le da click en el botón Install.
 
-![img_05](img/Img_05.png)
+![Img_05](img/Img_05.png)
 
 Una vez se haya realizado la configuración satisfactoriamente se le da click en el botón Next.
 
-![img_06](img/Img_06.png)
+![Img_06](img/Img_06.png)
 
 En este proceso de instalación se activan los dos cuadros, como se muestra en la imágen y se le da click en el botón Next.
 
-![img_07](img/Img_07.png)
+![Img_07](img/Img_07.png)
 
 El programa ha sido instalado en el computador y se le dará click en el botón Finish.
 
 
-![img_08](img/Img_08.png)
+![Img_08](img/Img_08.png)
 
 Una vez terminada la instalación del programa **NMAP** se deberá buscar el programa e ingresar a la terminal, tal como se muestra en la imágen.
 
-![img_09](img/Img_09.png) 
+![Img_09](img/Img_09.png) 
 Una vez ingresado a la terminal se podra ejecutar los diferentes comandos de la herramienta **NMAP**, como se muestra en la imágen.
 
 
