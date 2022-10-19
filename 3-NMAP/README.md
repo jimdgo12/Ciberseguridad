@@ -51,5 +51,5 @@ Una vez ingresado a la terminal se podra ejecutar los diferentes comandos de la 
 |     22    |     `nmap -iL lista_ip.txt`    |     Este comando sirve para buscar archivos.    |
 |     23    |     `nmap scanme.nmap.org`    |     Este comando sirve para ver una dirección web y hacer pruebas en esta.    |
 |     24    |      `nmap 1.1.1.1 8.8.8.8`    |     Este comando sirve para escanear múltiples direcciones IP.    |
-|     25    |     `nmap Udenar.edu.co`    |          |
+|     25    |     `nmap Udenar.edu.co`    | Este comando muestra los puertos abiertos de  la universidad de Nariño.         |
 
